@@ -15,7 +15,7 @@ Projeto desenvolvido por Luis Fernando Pinto
   • Android 11 (API 30)
   
   
-## execu;áo do codigo
+## execução do codigo
 
   fazer o download do projeto e dentro da pasta baixada executar o comando flutter run --no-sound-null-safety, necessário estar com um AVD disponível para executar o programa.
   
